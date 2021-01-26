@@ -29,7 +29,23 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"> 
+     <a>
+          <img align="center" src="https://icongr.am/devicon/c-original.svg?size=62&color=currentColor" alt="C" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt"CSS3" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt"HTML5" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt"JavaScript" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" alt="ruby" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="WordPress" width="40" heigth="40"/>
+          <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" alt="gulp" width="40" heigth="40"/>
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+     </a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroemanuelavelar&layout=compact" alt="My Skills" /></p>
 
