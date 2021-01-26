@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroemanuelavelar&layout=compact" alt="My Skills" /></p>
 
-
-     
-<br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12161358288&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12161358288&cover_image=false)](https://github.com/kittinan/spotify-github-profile)</p>
  
 
