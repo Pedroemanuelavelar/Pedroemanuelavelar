@@ -44,7 +44,6 @@ Here are some ideas to get you started:
           <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="WordPress" width="40" heigth="40"/>
           <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" alt="gulp" width="40" heigth="40"/>
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
      </a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroemanuelavelar&layout=compact" alt="My Skills" /></p>
