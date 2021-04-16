@@ -36,13 +36,12 @@ Here are some ideas to get you started:
           <img align="center" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt"HTML5" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt"JavaScript" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" heigth="40"/>
-          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/></br>
           <img align="center" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" alt="ruby" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
-          <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
-          <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="WordPress" width="40" heigth="40"/>
+          <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
           <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" alt="gulp" width="40" heigth="40"/>
      </a>
 
