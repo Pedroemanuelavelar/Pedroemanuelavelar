@@ -1,19 +1,3 @@
-
-
-<!--
-**Pedroemanuelavelar/Pedroemanuelavelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Pedro Emanuel</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroemanuelavelar" alt="Pedroemanuelavelar" /> </p>
@@ -36,9 +20,9 @@ Here are some ideas to get you started:
           <img align="center" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt"HTML5" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt"JavaScript" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" heigth="40"/>
-          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/></br>
-          <img align="center" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" heigth="40"/>
-          <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" alt="ruby" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" heigth="40"/></br>
+          <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" style="margin-top: -30px;"alt="ruby" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="WordPress" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
