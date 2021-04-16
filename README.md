@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Emanuel</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedroemanuelavelar" alt="Pedroemanuelavelar" /> </p>
+<p align="center"> 
+     <img src="https://komarev.com/ghpvc/?username=Pedroemanuelavelar" alt="Profile views" /> 
+</p>
 
 <h3 align="center">Aspiring technology, Front End world, web is my passion, friendly, communicative, designer in his spare time, the guy who loves to play video games.  Welcome to my profile!</h3>
 
